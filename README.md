@@ -1,10 +1,10 @@
 # testLog4j
-
-## How to compile?
+This is a test project for Log4j.
+## Compile
 ``` bash
     mvn clean package
 ```
-## How to run?
+## Run
 ``` bash
     java -cp target/testLog4j-1.0-SNAPSHOT-jar-with-dependencies.jar com.yufei.App
 ```
